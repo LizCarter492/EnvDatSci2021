@@ -1,6 +1,67 @@
 Oh git!
 you may confuse me now,
 but later you will make me less confused,
+<<<<<<< HEAD
 I think that I need to spend more time on the scripts and lecture materials to know what happens in this class
 
 I try to write my poem!
+=======
+
+I think
+
+Great
+
+I think I will be alright like everytime
+So Git you better be kind!
+And Please WORK!
+
+I think...
+
+I will forget the password every other day and
+gotta reset!
+Adding more
+
+It was great, Thank you!
+
+A journey of a thousand miles begins with a single step.
+
+I will be happy to collaborate with classmates
+
+I will not be changing my major to computer science
+
+My skills in programming are being tested
+If only I were more awake and well rested
+Then this beginning file would not have me bested
+
+I prefer R,
+But python will help me go far
+
+That I am going to need a nap after using git.
+
+I fear that I will run out of time
+I'm typing so I don't get left behind
+
+every hill I climb
+I find two more on the other side.
+
+Any present suffering,
+will just mean a future ease!
+
+Just checking fr today, if I can still do this! 
+
+
+Co-coding a poem would be so fun,
+But if it fails I will impress no one.
+
+When I look at a blank sheet
+and think about git
+my mind becomes a blank
+and I need to git merge with my
+upstream thoughts
+
+One two three four five
+Follow the steps
+of the GIT cookbook
+and make your fussy cake
+
+>>>>>>> upstream/main
